@@ -7,6 +7,7 @@ function criaCalculadora() {
         nome: "João",
         idade: 14
     };
+    //Deixando comentário ou alterando code
     console.log(`Nome: ${objetoPessoa.nome} e idade: ${objetoPessoa.idade}`);
     let pessoas = [objetoPessoa];
     return {
